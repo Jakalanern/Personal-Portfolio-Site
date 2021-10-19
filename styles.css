@@ -474,6 +474,10 @@ nav .slash {
     transform: scale(1.025);
     background: var(--clr-offblack);
   }
+
+  .grid-item {
+    opacity: 1 !important;
+  }
 }
 
 @media (min-width: 600px) {
