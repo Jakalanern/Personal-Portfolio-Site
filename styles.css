@@ -511,7 +511,7 @@ nav .slash {
   .grid-item {
     height: 650px;
     border-radius: 0.5em;
-    outline: 2px solid rgba(255, 255, 255, 0.596);
+    border: 2px solid rgba(255, 255, 255, 0.596);
     opacity: 0.5;
     transition: opacity 0.5s ease;
   }
@@ -628,7 +628,7 @@ nav .slash {
   .grid-item {
     height: 500px;
     border-radius: 0.5em;
-    outline: 2px solid rgba(255, 255, 255, 0.596);
+    border: 2px solid rgba(255, 255, 255, 0.596);
     opacity: 1;
     transition: opacity 0.5s ease;
   }
@@ -754,7 +754,7 @@ nav .slash {
     height: 300px;
     width: 100%;
     border-radius: 0.5em;
-    outline: 2px solid rgba(255, 255, 255, 0.596);
+    border: 2px solid rgba(255, 255, 255, 0.596);
     opacity: 0.5;
     transition: opacity 0.5s ease;
   }
