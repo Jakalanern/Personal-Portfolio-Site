@@ -533,7 +533,8 @@ nav .slash {
     background-position: top;
   }
 
-  .grid-item-wrapper:hover {
+  .grid-item-wrapper:hover,
+  .grid-item-wrapper:focus {
     transform: scale(1.025);
   }
 
@@ -622,7 +623,7 @@ nav .slash {
     height: 500px;
     border-radius: 0.5em;
     outline: 2px solid rgba(255, 255, 255, 0.596);
-    opacity: 0.5;
+    opacity: 1;
     transition: opacity 0.5s ease;
   }
 
