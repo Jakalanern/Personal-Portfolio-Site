@@ -648,9 +648,9 @@ nav .slash {
   }
 
   #item4 {
-    background: url(imgs/site2.png);
+    background: url(imgs/site5.png);
     background-size: cover;
-    background-position: center;
+    background-position: left;
   }
 
   .grid-item:hover .grid-item-wrapper {
