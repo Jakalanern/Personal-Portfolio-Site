@@ -502,6 +502,7 @@ nav .slash {
   .grid-item-wrapper {
     height: 650px;
     width: 33%;
+    border-radius: 0.5em;
     margin: 4em;
     background-color: rgb(0, 0, 0);
     transition: 0.5s ease;
@@ -618,6 +619,7 @@ nav .slash {
   .grid-item-wrapper {
     height: 500px;
     width: 33%;
+    border-radius: 0.5em;
     margin: 4em;
     background-color: rgb(0, 0, 0);
     transition: 0.5s ease;
@@ -742,6 +744,7 @@ nav .slash {
   .grid-item-wrapper {
     height: 300px;
     width: 33%;
+    border-radius: 0.5em;
     margin: 2em;
     background-color: rgb(0, 0, 0);
     transition: 0.5s ease;
