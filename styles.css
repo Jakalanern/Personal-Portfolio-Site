@@ -9,7 +9,6 @@
   --clr-offblack: rgba(0, 0, 0, 0.582);
   --clr-accent: rgb(134, 255, 134);
 }
-
 html,
 body {
   height: 100%;
@@ -17,7 +16,6 @@ body {
   margin: 0;
   padding: 0;
 }
-
 *,
 *::before,
 *::after {
@@ -278,6 +276,7 @@ nav .slash {
 }
 
 .main-box button {
+  display: none;
   width: 200px;
   height: 45px;
   background: none;
@@ -453,6 +452,7 @@ nav .slash {
   }
 
   .mobile-main button {
+    display: none;
     width: 200px;
     height: 45px;
     background: none;
